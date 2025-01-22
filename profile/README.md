@@ -1,12 +1,9 @@
-## Hi there 👋
+# FestClub 🎮
 
-<!--
+<div align="center">
 
-**Here are some ideas to get you started:**
+[![Discord](https://img.shields.io/discord/123456789?color=%237289DA&label=Discord&logo=discord&logoColor=white)]([https://discord.gg/festclub](https://discord.gg/EBVQJ37gw2))
 
-🙋‍♀️ A short introduction - what is your organization all about?
-🌈 Contribution guidelines - how can the community get involved?
-👩‍💻 Useful resources - where can the community find your docs? Is there anything else the community should know?
-🍿 Fun facts - what does your team eat for breakfast?
-🧙 Remember, you can do mighty things with the power of [Markdown](https://docs.github.com/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax)
--->
+</div>
+
+FestClub é uma plataforma competitiva dedicada à comunidade de Counter-Strike: Source, desenvolvida para proporcionar uma experiência única aos jogadores através de partidas ranqueadas e um ambiente seguro para competir.
