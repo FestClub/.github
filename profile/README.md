@@ -2,7 +2,7 @@
 
 <div align="center">
 
-[![Discord](https://img.shields.io/discord/123456789?color=%237289DA&label=Discord&logo=discord&logoColor=white)]([https://discord.gg/festclub](https://discord.gg/EBVQJ37gw2))
+[![Discord](https://img.shields.io/badge/Discord-7289DA?logo=discord&logoColor=white)](https://discord.gg/EBVQJ37gw2)
 
 </div>
 
